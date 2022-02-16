@@ -3,8 +3,10 @@
 Analytical requirements: answer these business questions. 
  
 
-Total sales $ via Invoice
-Total sales $ via Invoiceline
+# Total sales $ via Invoice
+
+# Total sales $ via Invoiceline
+
 Total tracks (songs) sold
 Total sales $ by customer’s country – ranked (sorted largest to smallest)
 In data viz: provide comparison
